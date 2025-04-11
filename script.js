@@ -1,4 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Welcome to CodeOf.f13");
+    console.log("Welcome to LifeOf.f13");
   });
   
